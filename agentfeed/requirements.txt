@@ -1,0 +1,8 @@
+pymilvus
+openai
+sqlalchemy
+pymysql
+flask
+flask_restful
+flask_cors
+tiktoken
